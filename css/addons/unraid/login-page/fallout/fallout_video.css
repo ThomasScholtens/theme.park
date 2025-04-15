@@ -49,7 +49,7 @@
 /* Fallback image for smaller screens */
 @media (max-width: 500px) {
     body {
-        background: url('/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg') center center/cover no-repeat fixed !important;
+        background: url('https://www.youtube.com/watch?v=ehvduomE0AU') center center/cover no-repeat fixed !important;
     }
 
     :root {
